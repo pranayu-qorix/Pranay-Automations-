@@ -1,0 +1,9 @@
+# Runtime dependencies
+# All standard-library only — no third-party packages required.
+# Listed here for documentation / packaging purposes.
+
+# Optional: for richer HTML diffing
+# Jinja2>=3.0
+
+# Optional: for libclang-based AST analysis (deeper checks)
+# libclang>=14.0
