@@ -4,9 +4,9 @@
  * Demo file with intentional AUTOSAR C++14 violations.
  *
  * Violations present:
- *   A4-10-1  — nullptr instead of nullptr
+ *   A4-10-1  — NULL instead of nullptr
  *   A5-2-2   — C-style cast
- *   A7-1-4   — keyword
+ *   A7-1-4   — register keyword
  *   A7-1-6   — typedef instead of using
  *   A7-2-3   — plain enum instead of enum class
  *   A18-1-1  — raw C-style array

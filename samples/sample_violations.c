@@ -5,7 +5,7 @@
  * tool and see the report output immediately.
  *
  * Violations present:
- *   M7.1   — octal literal 493
+ *   M7.1   — octal literal 0755
  *   M7.3   — lowercase 'l' suffix on literal
  *   M15.6  — if body without braces
  *   M15.7  — else-if chain without trailing else
